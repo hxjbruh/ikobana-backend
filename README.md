@@ -4,7 +4,7 @@ Backend REST API untuk aplikasi manajemen toko **Ikobana Frozen Food** (Project-
 Dokumen ini juga menjadi dokumentasi **Tugas #9 — Autentikasi & Otorisasi**.
 
 - **Desain Figma (PBL UAS):** _<!-- TODO: tempel tautan Figma di sini -->_ `https://www.figma.com/...`
-- **Frontend:** repository `pbl-framework-frontend-main` (Next.js)
+- **Frontend:** https://github.com/hxjbruh/ikobana-frontend (Next.js)
 
 ---
 
