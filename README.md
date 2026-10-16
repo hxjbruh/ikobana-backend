@@ -189,10 +189,16 @@ Hasil uji coba manual (16 Oktober 2026):
 
 ### Screenshot
 
-<!-- TODO: tambahkan screenshot hasil slicing / halaman aplikasi, contoh: -->
-<!-- ![Halaman Login](docs/screenshots/login.png) -->
+**Halaman Login** (`/`)
+
+![Halaman Login](docs/screenshots/login.png)
+
+**Halaman 403 — Customer mencoba membuka halaman khusus Admin** (`/settings` → `/forbidden`)
+
+![Halaman 403 untuk Customer](docs/screenshots/forbidden-customer.png)
+
+<!-- TODO: tambahkan screenshot lain, misalnya dashboard admin & halaman produk -->
 <!-- ![Dashboard Admin](docs/screenshots/dashboard-admin.png) -->
-<!-- ![Halaman 403 untuk Customer](docs/screenshots/forbidden.png) -->
 
 ---
 
