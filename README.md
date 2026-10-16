@@ -193,7 +193,11 @@ Hasil uji coba manual (16 Oktober 2026):
 
 ![Halaman Login](docs/screenshots/login.png)
 
-**Halaman 403 — Customer mencoba membuka halaman khusus Admin** (`/settings` → `/forbidden`)
+**Halaman Pengaturan — dibuka oleh Admin** (`/settings`, diizinkan)
+
+![Halaman Pengaturan untuk Admin](docs/screenshots/settings-admin.png)
+
+**Halaman yang sama dibuka oleh Customer** (`/settings` → `/forbidden`, ditolak 403)
 
 ![Halaman 403 untuk Customer](docs/screenshots/forbidden-customer.png)
 
